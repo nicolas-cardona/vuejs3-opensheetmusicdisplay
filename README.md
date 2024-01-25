@@ -1,5 +1,11 @@
 # vuejs3-opensheetmusicdisplay
 
+# <img alt="logo-osmd" src="src/assets/logo-osmd.svg">
+
+This is an example of a Vuejs component for Open Sheet Music Display
+
+<img alt="vue-integration-example" src="src/assets/image.png">
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
